@@ -1,4 +1,3 @@
-# 2020-Primaries-Official
 Official results for the 2020 Presidential Primaries 
 
 ## 2020 New Hampshire Primaries
